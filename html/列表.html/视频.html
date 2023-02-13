@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>视频</title>
+</head>
+<body>
+        <video src="./IMG_0234.MOV" preload="autoplay" controls loop></video>
+
+        <!-- 
+            preload="......"双引号里面可以跟/none/auto/metadata.
+
+            none 表示在用户按下播放按钮之前，浏览器不会加载视频
+
+            auto 表示浏览器应该在页面加载时载入视频，载入不代表播放.
+
+            metadata 表示当页面加载后仅加载音频/视频的元数据
+        -->
+        <!--
+            controls:播放控件
+
+            autoplay：视频文件会自动播放
+
+            在html5中，loop是用于规定音频或者视频结束后是否重新开始播放的属性，是循环的意思；
+            该属性是一个布尔属性，若设置该属性，则音频或者视频将循环播放，语法为“<element loop="loop" />”。
+        -->
+</body>
+</html>
