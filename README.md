@@ -1,6 +1,5 @@
 ### 创程社管理员运营
-<img src="https://avatars.githubusercontent.com/u/82868242?s=40&v=4" />[天启之云/](https://github.com/fon11731)
-<img src="https://avatars.githubusercontent.com/u/82868242?s=40&v=4" />
+[天启之云/](https://github.com/fon11731)<img src="https://avatars.githubusercontent.com/u/82868242?s=40&v=4" />
 
 ### Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=chuangchengshe&show_icons=true&theme=dark&count_private=true)
