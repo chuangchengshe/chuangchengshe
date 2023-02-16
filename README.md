@@ -1,6 +1,9 @@
 ### 创程社管理员运营
 [天启之云/](https://github.com/fon11731)<img src="https://avatars.githubusercontent.com/u/82868242?s=40&v=4" />
 
+#### Github Stats
+[![info](https://github-readme-stats.vercel.app/api?username=fon11731&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=chuangchengshe&show_icons=true&theme=dark&count_private=true)
 <p>
@@ -27,10 +30,6 @@
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 [![](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-Microsoft%20IIS-00a8e8?style=flat-square&logo=microsoft&logoColor=ffffff)](https://www.iis.net/)
-
-
-#### Github Stats
-[![info](https://github-readme-stats.vercel.app/api?username=fon11731&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fon11731&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
