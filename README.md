@@ -38,6 +38,9 @@
 ### giree
 [![天启之云]<img src="https://avatars.githubusercontent.com/u/82868242?s=40&v=4" />(https://gitee.com/fon1173/)]
 
+[天启之云/](https://gitee.com/fon1173)<img src="https://avatars.githubusercontent.com/u/82868242?s=40&v=4" />
+
+
 #### 📊 每周工作报告
 ```text
 摸鱼   🕓 168h0m ██████████████████████████ 100.0%
