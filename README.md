@@ -1,10 +1,9 @@
 # 创程社管理员运营
-
 ![管理员账号](https://github.com/fon11731)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=chuangchengshe&show_icons=true&theme=dark&count_private=true)
 <p>
-  <img src="https://api.moedog.org/count/@tqzy?theme=rule34" alt="tqzy" />
+  <img src="https://api.moedog.org/count/@chuangchengshe?theme=rule34" alt="chuangchengshe" />
   <img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1" align="right">
 </p>
 
