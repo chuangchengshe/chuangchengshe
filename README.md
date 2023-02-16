@@ -36,7 +36,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fon11731&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 ### giree
-[![天启之云/]<img src="https://avatars.githubusercontent.com/u/82868242?s=40&v=4" />](https://gitee.com/fon1173/)
+[天启之云/]<img src="https://avatars.githubusercontent.com/u/82868242?s=40&v=4" />(https://gitee.com/fon1173/)
 
 #### 📊 每周工作报告
 ```text
